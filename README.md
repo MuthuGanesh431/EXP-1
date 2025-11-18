@@ -1,22 +1,22 @@
 # EXP-1
-EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
-AIM
-a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
-b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
+EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS<br>
+AIM<br>
+a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. <br>
+b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.<br>
 
-APPARATUS REQUIRED:
-S.No.	Components	Range	Quantity
-1	Resistor	1kΩ	3
-2	Voltmeter (DC)	0-30V	3
-3	Ammeter (DC)	(0-200)mA	3
-4	Bread Board		1
-5	Regulated Power Supply	(0-30)V	1
-6	Connecting wires		As required
+APPARATUS REQUIRED:<br>
+S.No.	Components	Range	Quantity<br>
+1	Resistor	1kΩ	3<br>
+2	Voltmeter (DC)	0-30V	3<br>
+3	Ammeter (DC)	(0-200)mA	3<br>
+4	Bread Board		1<br>
+5	Regulated Power Supply	(0-30)V	1<br>
+6	Connecting wires		As required<br>
 
-THEORY:
-KVL: Kirchhoff's voltage law states that the sum of the voltage differences around any closed loop in a circuit must be zero. A loop in a circuit is any path that ends at the same point at which it starts.
-KCL:
-Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative
+THEORY:<br>
+KVL: Kirchhoff's voltage law states that the sum of the voltage differences around any closed loop in a circuit must be zero. A loop in a circuit is any path that ends at the same point at which it starts.<br>
+KCL:<br>
+Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative<br>
 
 
 PROCEDURE:
